@@ -29,7 +29,7 @@ npm start
 
 ## Author
 
-**germancutraro**
+**HussainAnjan5**
 made with [HussainAnjan5](https://github.com/HussainAnjan5)
 
 ## Why
